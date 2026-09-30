@@ -2,7 +2,7 @@
 
 # Hi, I'm lxMWxl 👋
 
-I'm a hobbyist developer focused on homebrew, plugins, and utilities for game consoles — especially the Xbox 360 scene.
+I am learning programming and developing some things for the Xbox 360 and the original Xbox.
 
 </div>
 
